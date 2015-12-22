@@ -19,7 +19,7 @@ sa = rand(5,5)
 sb = rand(5,5)
 sa = (Float64 5,5)
 
-
+@time sc = sa * sb
 
 
 
